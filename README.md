@@ -1,4 +1,4 @@
-# DEQ2 Queue Simulation
+# Airport Simulation System
 
 This program simulates a queueing system using a DEQ2 (Double Ended Queue) data structure.
 
